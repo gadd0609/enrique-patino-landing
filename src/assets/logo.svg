@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Icono AP (Alejandro Patiño) -->
+  <g fill="none" stroke="#0d0d0d" stroke-width="16" stroke-linecap="round" stroke-linejoin="miter">
+    <!-- Parte Izquierda (A) -->
+    <path d="M 242 310 L 242 120 A 40 40 0 0 0 162 120 L 162 210 L 206 210" />
+    
+    <!-- Parte Derecha (P) -->
+    <path d="M 258 310 L 258 120 A 40 40 0 0 1 338 120 L 338 170 A 40 40 0 0 1 298 210" />
+  </g>
+
+  <!-- Texto inferior del logo -->
+  <text x="250" y="380" font-family="'Outfit', 'Inter', sans-serif" font-size="19" font-weight="300" text-anchor="middle" fill="#0d0d0d" letter-spacing="0.28em">
+    ingeniero civil <tspan fill="#e0e0e0" font-weight="200">|</tspan> alejandro patiño
+  </text>
+</svg>
